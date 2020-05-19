@@ -1,2 +1,2 @@
 # GuessTheColorGame
-Play this Game at -
+Play this Game at - https://sanyamidha.github.io/GuessTheColorGame/.
